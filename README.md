@@ -6,12 +6,6 @@ Hey there! Welcome to SeeSay, my project where I'm building a multimodal languag
 
 So, I recently watched this awesome video about coding a multimodal language model, and I just had to give it a shot myself. That's how SeeSay was born! It's been a wild ride learning about all these fancy concepts, but I think I've got something pretty neat going on here.
 
-## Project Structure
-
-My SeeSay code is organized like this:
-
-seesay/ ├── vision_transformer/ │ ├── vit.py │ └── ... ├── language_model/ │ ├── transformer.py │ └── ... ├── multimodal/ │ ├── model.py │ └── ... ├── utils/ │ ├── contrastive_learning.py │ ├── rotary_positional_encoding.py │ └── ... └── examples/ ├── image_captioning.py ├── visual_question_answering.py └── ...
-
 ## The Cool Stuff
 
 ### Vision Transformer (ViT)
