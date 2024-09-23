@@ -1,4 +1,4 @@
-#SeeSay: A Multimodal Language Model
+# SeeSay: A Multimodal Language Model
 
 Hey there! Welcome to SeeSay, my project where I'm building a multimodal language model from scratch using PyTorch. This thing is pretty cool - it can understand both pictures and words!
 
